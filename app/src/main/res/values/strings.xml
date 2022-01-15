@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginLayoutExample</string>
+    <string name="text_hint_email">Email</string>
+    <string name="text_hint_password">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="text_facebook">Facebook</string>
+    <string name="text_gmail">Gmail</string>
+    <string name="text_error_email_field">Masukkan Email Anda</string>
+    <string name="text_error_password_field">Masukkan Password Anda</string>
+</resources>
